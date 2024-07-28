@@ -9,6 +9,7 @@ Note that this application has been created for non-commercial use.
 ![Screenshot](https://raw.githubusercontent.com/CodeOfVictor/Live-tram/main/img/Screenshot.png?token=GHSAT0AAAAAACURBWHVKJBU3CRVBXTA3MVCZVGWHEA)
 
 ## Development
+The openstreetmap (https://www.openstreetmap.org) was used for this project.
 
 ### Route
 Map obtained with Overpass Turbo (http://overpass-turbo.eu/), which allows you to query and save routes (in .geojson format), in this case, the tram route of Zaragoza (Spain).
@@ -49,6 +50,7 @@ Aclarar que esta aplicación ha sido creada sin fines lucrativos.
 ![Captura de ventana](https://raw.githubusercontent.com/CodeOfVictor/Live-tram/main/img/Screenshot.png?token=GHSAT0AAAAAACURBWHVKJBU3CRVBXTA3MVCZVGWHEA)
 
 ## Desarrollo
+Se uso el mapa de openstreetmap (https://www.openstreetmap.org) para este proyecto.
 
 ### Ruta
 Mapa obtenido con Overpass Turbo (http://overpass-turbo.eu/), el cual permite realizar consultas y guardar rutas (en formato .geojson), en este caso, la del tranvía de Zaragoza (España).
