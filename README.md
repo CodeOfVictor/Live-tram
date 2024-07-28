@@ -6,7 +6,7 @@ Desktop application created with Electron, as it is a framework for creating app
 
 Note that this application has been created for non-commercial use.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/CodeOfVictor/Live-tram/main/img/Screenshot.png?token=GHSAT0AAAAAACURBWHVKJBU3CRVBXTA3MVCZVGWHEA)
 
 ## Development
 
@@ -32,6 +32,7 @@ The stops and their respective information, such as the remaining time for the n
 Ensure dependencies like Electron and Node are installed, clone the project, and run it with the following command.
 
 ```bash
+npm install
 npm start
 ```
 
@@ -45,7 +46,7 @@ Aplicación de escritorio creada con Electron, ya que es un framework para crear
 
 Aclarar que esta aplicación ha sido creada sin fines lucrativos.
 
-![Captura de ventana]()
+![Captura de ventana](https://raw.githubusercontent.com/CodeOfVictor/Live-tram/main/img/Screenshot.png?token=GHSAT0AAAAAACURBWHVKJBU3CRVBXTA3MVCZVGWHEA)
 
 ## Desarrollo
 
@@ -71,5 +72,6 @@ Las paradas y su respectiva información, como el tiempo restante para la llegad
 Asegúrate de tener instaladas las dependencias como Electron y Node, clona el proyecto y ejecútalo con el siguiente comando.
 
 ```bash
+npm install
 npm start
 ```
